@@ -22,12 +22,6 @@ class Mugila:
         "Transformers (BLIP)", "Streamlit", "Scapy"
     ]
 
-    currentlyLearning = [
-        "Advanced Deep Learning",
-        "MLOps & Model Deployment",
-        "Full Stack Development (MERN)",
-    ]
-
     funFact = "Turned a packet sniffer into a live anomaly-detection dashboard 📡"
 
     def motto(self):
@@ -127,8 +121,9 @@ class Mugila:
 |---|---|---|
 | 📄 | Research Paper Under Review | "MindGuard AI – AI-Based Forgetfulness Risk Prediction System" selected for review at NCRTCI'26 |
 | 🎓 | NPTEL Certifications | Machine Learning for Engineering Science and Applications; Artificial Intelligence: Concepts and Techniques |
-| 💻 | CSC Certifications | Python, C, C++, and Java Programming Course; UI/UX Design; Full Stack Development (MERN) |
-| 🧠 | Academic Standing | CGPA 9.26/10.00 — B.Tech, Artificial Intelligence and Data Science |
+| 💻 | CSC Certification | Python, C, C++, and Java Programming Course |
+| 🎨 | CSC Certification | UI/UX Design |
+| 💻 | CSC Certification | Full Stack Development (MERN) |
 
 ## 🎓 Education
 
@@ -136,20 +131,11 @@ class Mugila:
 |---|---|---|---|
 | 🎓 B.Tech — AI & Data Science | SRM Valliammai Engineering College, Chengalpattu, Tamil Nadu | May 2028 | 9.26 / 10.0 |
 
-## 🌱 Currently Learning
-
-```
-🧠 Deep Learning        →  Advanced Architectures · Model Optimization
-⚙️  MLOps               →  Model Deployment · CI/CD for ML
-🌐 Full Stack (MERN)    →  MongoDB · Express · React · Node.js
-```
-
 ## 📬 Connect With Me
 
-<p align="left">
-<a href="mailto:mugicharm31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+📧 **Email:** [mugicharm31@gmail.com](mailto:mugicharm31@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&color=70a5fd&style=for-the-badge" />
+<p align="left">
+<a href="mailto:mugicharm31@gmail.com"><img src="https://img.shields.io/badge/Gmail-mugicharm31%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mugila01/"><img src="https://img.shields.io/badge/LinkedIn-Mugila%20B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
